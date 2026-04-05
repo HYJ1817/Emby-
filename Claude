@@ -1,0 +1,12 @@
+# NAME: Claude_Full
+# AUTHOR: ChatGPT
+# UPDATED: 2026-04-05
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+
+HOST,cdn.usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,claude.com,Claude
+HOST-SUFFIX,anthropic.dev,Claude
