@@ -6,16 +6,16 @@ DOMAIN-SUFFIX,media.nijigem.by
 #二次元emby
 DOMAIN-SUFFIX,faemby.vip
 #我身无拘
-DOMAIN-SUFFIX,link01.okemby.org
-DOMAIN-SUFFIX,link00.okemby.org
+#DOMAIN-SUFFIX,link01.okemby.org
+#DOMAIN-SUFFIX,link00.okemby.org
 #OK emby
 DOMAIN-SUFFIX,v1.uhdnow.com
 #Uhd emby
 DOMAIN-KEYWORD,emos
 #emos emby
-DOMAIN-SUFFIX,embymv.link
+#DOMAIN-SUFFIX,embymv.link
 #桃子公益
-DOMAIN-SUFFIX,tanhuatv.site
+#DOMAIN-SUFFIX,tanhuatv.site
 #探花TV
 DOMAIN-SUFFIX,xxm.kingemby.xyz
 #小虾米
